@@ -10,3 +10,6 @@ chmod +x server-stats.sh
 
 3. **Execute the script**
 ./server-stats.sh
+
+
+https://roadmap.sh/projects/server-stats
